@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/landing.png" width="700" alt="Text to Truth — Landing Page" />
+  <img src="screenshots/landing.png" width="700" alt="Daksh — Landing Page" />
 </p>
 
 <h1 align="center">🛡️ Daksh</h1>
