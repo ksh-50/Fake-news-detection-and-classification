@@ -2,11 +2,11 @@
   <img src="screenshots/landing.png" width="700" alt="Text to Truth — Landing Page" />
 </p>
 
-<h1 align="center">🛡️ Text to Truth</h1>
+<h1 align="center">🛡️ Daksh</h1>
 
 <p align="center">
   <b>Paste a headline. Get the truth.</b><br>
-  Built by <a href="https://github.com/Piyush01-tech">Team Text to Truth</a>
+  Built by <a href="https://github.com/Piyush01-tech"> Daksh</a>
 </p>
 
 <p align="center">
@@ -85,5 +85,5 @@ Python · Streamlit · scikit-learn · DuckDuckGo Search · joblib
 ---
 
 <p align="center">
-  <b>MIT License</b> · Built with ❤️ by Team Text to Truth</a>
+  <b>MIT License</b> · Built with ❤️ by Daksh</a>
 </p>
